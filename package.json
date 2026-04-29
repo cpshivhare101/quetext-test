@@ -8,7 +8,7 @@
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "Chandra Prakash",
   "license": "ISC",
   "dependencies": {
     "express": "^5.2.1",
